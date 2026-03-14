@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BinaryTree.App/BinaryTree.App.csproj" />
+  <Project Path="BinaryTree.Lib/BinaryTree.Lib.csproj" />
+  <Project Path="BinaryTree.Test/BinaryTree.Test.csproj" />
+</Solution>
